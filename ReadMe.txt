@@ -13,8 +13,8 @@ Fixes for TFS: https://medium.com/@DomBurf/performing-code-coverage-for-net-core
 More info: https://tattoocoder.com/cross-platform-code-coverage-arrives-for-net-core/
 
 
-Running in cmd line
-*******************
+Running code coverage in cmd line
+*********************************
 C:\<PATH TO YOUR .NET CORE SOLUTION>\Application.UnitTests>dotnet test "Application.UnitTests.csproj" /p:CollectCoverage=true
 
 
