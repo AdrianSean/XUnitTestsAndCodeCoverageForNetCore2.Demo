@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/XUnitTestsAndCodeCoverageForNetCore2.Demo
+/Application/obj
+/Application/bin/Debug/netstandard2.0
+/Application.UnitTests/obj
+/Application.UnitTests/bin/Debug/netcoreapp2.1
