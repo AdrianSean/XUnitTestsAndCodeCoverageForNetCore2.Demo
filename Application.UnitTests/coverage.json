@@ -1,6 +1,6 @@
 {
-  "C:\\Users\\adria\\source\\repos\\OpenBank Api Solution Starter kit\\Application.UnitTests\\bin\\Debug\\netcoreapp2.1\\Application.dll": {
-    "C:\\Users\\adria\\source\\repos\\OpenBank Api Solution Starter kit\\Application\\PrimeService.cs": {
+  "C:\\Apps\\0. Github Clones\\XUnitTestsAndCodeCoverageForNetCore2.Demo\\Application.UnitTests\\bin\\Debug\\netcoreapp2.1\\Application.dll": {
+    "C:\\Apps\\0. Github Clones\\XUnitTestsAndCodeCoverageForNetCore2.Demo\\Application\\PrimeService.cs": {
       "Application.PrimeService": {
         "System.Boolean Application.PrimeService::IsPrime(System.Int32)": {
           "Lines": {
